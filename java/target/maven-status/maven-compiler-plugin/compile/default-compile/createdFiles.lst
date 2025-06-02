@@ -1,0 +1,16 @@
+com\school\entity\User.class
+com\school\dao\StudentDao.class
+com\school\util\Result.class
+com\school\web\ProfileServlet.class
+com\school\web\LoginServlet.class
+com\school\dao\UserDao.class
+com\school\entity\Student.class
+com\school\web\LogoutServlet.class
+com\school\util\DBUtil.class
+com\school\entity\Course.class
+com\school\filter\AuthFilter.class
+com\school\web\CoursesServlet.class
+com\school\util\TokenManager.class
+com\school\web\ApiServlet.class
+com\school\dao\CourseDao.class
+com\school\web\StudentServlet.class
